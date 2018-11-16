@@ -1,3 +1,11 @@
+# Hello, World! This is my first program using the python language and loving it
+# This simple little program intakes the imput the user gives as a user name
+# runs it in a function called greeting, displays the greeting to the user, and then
+# depending on "if" its the User John or Mark, will output a msg to the user. 
+#
+# I'm super excited to be learning python and look forward to seeing what else I can do!
+# See you soon!
+
 def greeting(user):
 	print("Hello," + user)
 
